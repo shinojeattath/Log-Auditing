@@ -1,0 +1,22 @@
+2025-01-22 19:07:48,308 - INFO - Processing complete. 0/2 files processed
+2025-01-22 19:07:59,808 - INFO - Moved: Source\app1_logs_20250120.logs -> Audit\archive_app1_logs_20250120.logs
+2025-01-22 19:07:59,809 - INFO - Moved: Source\app2_logs_20250120.logs -> Audit\archive_app2_logs_20250120.logs
+2025-01-22 19:07:59,809 - INFO - Processing complete. 2/2 files processed
+2025-01-22 19:10:42,373 - INFO - Found 0 files to process
+2025-01-22 19:10:42,373 - INFO - No new files to process
+2025-01-22 19:12:31,946 - INFO - Found valid file: app1_logs_20250122.logs
+2025-01-22 19:12:31,946 - INFO - Found valid file: app2_logs_20250122.logs
+2025-01-22 19:12:31,946 - INFO - Found valid file: app3_logs_20250122.logs
+2025-01-22 19:12:31,947 - INFO - Found 3 files to process
+2025-01-22 19:12:31,947 - INFO - Successfully moved: Source\app1_logs_20250122.logs -> Audit\archive_app1_logs_20250122.logs
+2025-01-22 19:12:31,967 - INFO - Successfully moved: Source\app2_logs_20250122.logs -> Audit\archive_app2_logs_20250122.logs
+2025-01-22 19:12:31,968 - INFO - Successfully moved: Source\app3_logs_20250122.logs -> Audit\archive_app3_logs_20250122.logs
+2025-01-22 19:12:31,969 - INFO - Processing complete. 3/3 files processed successfully
+2025-01-22 19:13:48,746 - INFO - Found valid file: app1_logs_20250122.logs
+2025-01-22 19:13:48,746 - INFO - Found valid file: app2_logs_20250122.logs
+2025-01-22 19:13:48,746 - INFO - Found valid file: app3_logs_20250122.logs
+2025-01-22 19:13:48,746 - INFO - Found 3 files to process
+2025-01-22 19:13:48,746 - WARNING - Target file already exists: Audit\archive_app1_logs_20250122.logs
+2025-01-22 19:13:48,747 - WARNING - Target file already exists: Audit\archive_app2_logs_20250122.logs
+2025-01-22 19:13:48,747 - WARNING - Target file already exists: Audit\archive_app3_logs_20250122.logs
+2025-01-22 19:13:48,747 - INFO - Processing complete. 0/3 files processed successfully
