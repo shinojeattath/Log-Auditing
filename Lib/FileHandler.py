@@ -35,7 +35,7 @@ class FileHandler:
 
     def validate_file_pattern(self, filename):
         # Check if file matches pattern and is not already archived
-        pattern = r'^[a-zA-Z0-9_]+_logs_\d{8}\.logs$'
+        pattern = r'^[a-zA-Z0-9_]+_logs_\d{14}\.logs$'
         prefix = self.config.get('FilePatterns', 'archive_prefix')
         
         # Skip files that already start with archive_

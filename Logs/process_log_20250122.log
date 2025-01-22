@@ -20,3 +20,227 @@
 2025-01-22 19:13:48,747 - WARNING - Target file already exists: Audit\archive_app2_logs_20250122.logs
 2025-01-22 19:13:48,747 - WARNING - Target file already exists: Audit\archive_app3_logs_20250122.logs
 2025-01-22 19:13:48,747 - INFO - Processing complete. 0/3 files processed successfully
+2025-01-22 19:31:43,614 - INFO - Found valid file: app1_logs_20250122.logs
+2025-01-22 19:31:43,615 - INFO - Found valid file: app2_logs_20250122.logs
+2025-01-22 19:31:43,615 - INFO - Found valid file: app3_logs_20250122.logs
+2025-01-22 19:31:43,615 - INFO - Found 3 files to process
+2025-01-22 19:31:43,616 - WARNING - Target file already exists: Audit\archive_app1_logs_20250122.logs
+2025-01-22 19:31:43,616 - WARNING - Target file already exists: Audit\archive_app2_logs_20250122.logs
+2025-01-22 19:31:43,616 - WARNING - Target file already exists: Audit\archive_app3_logs_20250122.logs
+2025-01-22 19:31:43,616 - INFO - Processing complete. 0/3 files processed successfully
+2025-01-22 19:32:06,205 - INFO - Found valid file: app1_logs_20250122.logs
+2025-01-22 19:32:06,205 - INFO - Found valid file: app2_logs_20250122.logs
+2025-01-22 19:32:06,206 - INFO - Found valid file: app3_logs_20250122.logs
+2025-01-22 19:32:06,206 - INFO - Found 3 files to process
+2025-01-22 19:32:06,206 - WARNING - Target file already exists: Audit\archive_app1_logs_20250122.logs
+2025-01-22 19:32:06,207 - WARNING - Target file already exists: Audit\archive_app2_logs_20250122.logs
+2025-01-22 19:32:06,208 - WARNING - Target file already exists: Audit\archive_app3_logs_20250122.logs
+2025-01-22 19:32:06,208 - INFO - Processing complete. 0/3 files processed successfully
+2025-01-22 19:35:20,857 - INFO - Found valid file: app1_logs_20250122.logs
+2025-01-22 19:35:20,857 - INFO - Found valid file: app2_logs_20250122.logs
+2025-01-22 19:35:20,858 - INFO - Found valid file: app3_logs_20250122.logs
+2025-01-22 19:35:20,858 - INFO - Found 3 files to process
+2025-01-22 19:35:20,858 - WARNING - Target file already exists: Audit\archive_app1_logs_20250122.logs
+2025-01-22 19:35:20,859 - WARNING - Target file already exists: Audit\archive_app2_logs_20250122.logs
+2025-01-22 19:35:20,859 - WARNING - Target file already exists: Audit\archive_app3_logs_20250122.logs
+2025-01-22 19:35:20,860 - INFO - Processing complete. 0/3 files processed successfully
+2025-01-22 19:36:03,488 - INFO - Found 0 files to process
+2025-01-22 19:36:03,489 - INFO - No new files to process
+2025-01-22 19:39:53,816 - INFO - Found valid file: app1_logs_20250122193600.logs
+2025-01-22 19:39:53,817 - INFO - Found valid file: app1_logs_20250122193700.logs
+2025-01-22 19:39:53,817 - INFO - Found valid file: app1_logs_20250122193800.logs
+2025-01-22 19:39:53,818 - INFO - Found valid file: app1_logs_20250122193900.logs
+2025-01-22 19:39:53,818 - INFO - Found valid file: app2_logs_20250122193600.logs
+2025-01-22 19:39:53,818 - INFO - Found valid file: app2_logs_20250122193700.logs
+2025-01-22 19:39:53,819 - INFO - Found valid file: app2_logs_20250122193800.logs
+2025-01-22 19:39:53,819 - INFO - Found valid file: app2_logs_20250122193900.logs
+2025-01-22 19:39:53,819 - INFO - Found valid file: app3_logs_20250122193600.logs
+2025-01-22 19:39:53,820 - INFO - Found valid file: app3_logs_20250122193700.logs
+2025-01-22 19:39:53,820 - INFO - Found valid file: app3_logs_20250122193800.logs
+2025-01-22 19:39:53,820 - INFO - Found valid file: app3_logs_20250122193900.logs
+2025-01-22 19:39:53,820 - INFO - Found 12 files to process
+2025-01-22 19:39:53,821 - INFO - Successfully moved: Source\app1_logs_20250122193600.logs -> Audit\archive_app1_logs_20250122193600.logs
+2025-01-22 19:39:53,821 - INFO - Successfully moved: Source\app1_logs_20250122193700.logs -> Audit\archive_app1_logs_20250122193700.logs
+2025-01-22 19:39:53,822 - INFO - Successfully moved: Source\app1_logs_20250122193800.logs -> Audit\archive_app1_logs_20250122193800.logs
+2025-01-22 19:39:53,823 - INFO - Successfully moved: Source\app1_logs_20250122193900.logs -> Audit\archive_app1_logs_20250122193900.logs
+2025-01-22 19:39:53,824 - INFO - Successfully moved: Source\app2_logs_20250122193600.logs -> Audit\archive_app2_logs_20250122193600.logs
+2025-01-22 19:39:53,825 - INFO - Successfully moved: Source\app2_logs_20250122193700.logs -> Audit\archive_app2_logs_20250122193700.logs
+2025-01-22 19:39:53,826 - INFO - Successfully moved: Source\app2_logs_20250122193800.logs -> Audit\archive_app2_logs_20250122193800.logs
+2025-01-22 19:39:53,827 - INFO - Successfully moved: Source\app2_logs_20250122193900.logs -> Audit\archive_app2_logs_20250122193900.logs
+2025-01-22 19:39:53,828 - INFO - Successfully moved: Source\app3_logs_20250122193600.logs -> Audit\archive_app3_logs_20250122193600.logs
+2025-01-22 19:39:53,829 - INFO - Successfully moved: Source\app3_logs_20250122193700.logs -> Audit\archive_app3_logs_20250122193700.logs
+2025-01-22 19:39:53,830 - INFO - Successfully moved: Source\app3_logs_20250122193800.logs -> Audit\archive_app3_logs_20250122193800.logs
+2025-01-22 19:39:53,830 - INFO - Successfully moved: Source\app3_logs_20250122193900.logs -> Audit\archive_app3_logs_20250122193900.logs
+2025-01-22 19:39:53,831 - INFO - Processing complete. 12/12 files processed successfully
+2025-01-22 19:40:03,501 - INFO - Found valid file: app1_logs_20250122194000.logs
+2025-01-22 19:40:03,502 - INFO - Found valid file: app2_logs_20250122194000.logs
+2025-01-22 19:40:03,502 - INFO - Found valid file: app3_logs_20250122194000.logs
+2025-01-22 19:40:03,502 - INFO - Found 3 files to process
+2025-01-22 19:40:03,503 - INFO - Successfully moved: Source\app1_logs_20250122194000.logs -> Audit\archive_app1_logs_20250122194000.logs
+2025-01-22 19:40:03,503 - INFO - Successfully moved: Source\app2_logs_20250122194000.logs -> Audit\archive_app2_logs_20250122194000.logs
+2025-01-22 19:40:03,504 - INFO - Successfully moved: Source\app3_logs_20250122194000.logs -> Audit\archive_app3_logs_20250122194000.logs
+2025-01-22 19:40:03,506 - INFO - Processing complete. 3/3 files processed successfully
+2025-01-22 20:07:20,277 - INFO - Found valid file: app1_logs_20250122194100.logs
+2025-01-22 20:07:20,277 - INFO - Found valid file: app1_logs_20250122194200.logs
+2025-01-22 20:07:20,277 - INFO - Found valid file: app1_logs_20250122194300.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122194400.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122194500.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122194600.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122194700.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122194800.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122194900.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122195000.logs
+2025-01-22 20:07:20,278 - INFO - Found valid file: app1_logs_20250122195100.logs
+2025-01-22 20:07:20,279 - INFO - Found valid file: app1_logs_20250122195200.logs
+2025-01-22 20:07:20,279 - INFO - Found valid file: app1_logs_20250122195300.logs
+2025-01-22 20:07:20,279 - INFO - Found valid file: app1_logs_20250122195400.logs
+2025-01-22 20:07:20,279 - INFO - Found valid file: app1_logs_20250122195500.logs
+2025-01-22 20:07:20,279 - INFO - Found valid file: app1_logs_20250122195600.logs
+2025-01-22 20:07:20,279 - INFO - Found valid file: app1_logs_20250122195700.logs
+2025-01-22 20:07:20,280 - INFO - Found valid file: app1_logs_20250122195800.logs
+2025-01-22 20:07:20,280 - INFO - Found valid file: app1_logs_20250122195900.logs
+2025-01-22 20:07:20,280 - INFO - Found valid file: app1_logs_20250122200000.logs
+2025-01-22 20:07:20,280 - INFO - Found valid file: app1_logs_20250122200100.logs
+2025-01-22 20:07:20,280 - INFO - Found valid file: app1_logs_20250122200200.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app1_logs_20250122200300.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app1_logs_20250122200400.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app1_logs_20250122200500.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app1_logs_20250122200600.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app1_logs_20250122200700.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app2_logs_20250122194100.logs
+2025-01-22 20:07:20,281 - INFO - Found valid file: app2_logs_20250122194200.logs
+2025-01-22 20:07:20,282 - INFO - Found valid file: app2_logs_20250122194300.logs
+2025-01-22 20:07:20,282 - INFO - Found valid file: app2_logs_20250122194400.logs
+2025-01-22 20:07:20,282 - INFO - Found valid file: app2_logs_20250122194500.logs
+2025-01-22 20:07:20,282 - INFO - Found valid file: app2_logs_20250122194600.logs
+2025-01-22 20:07:20,282 - INFO - Found valid file: app2_logs_20250122194700.logs
+2025-01-22 20:07:20,283 - INFO - Found valid file: app2_logs_20250122194800.logs
+2025-01-22 20:07:20,283 - INFO - Found valid file: app2_logs_20250122194900.logs
+2025-01-22 20:07:20,283 - INFO - Found valid file: app2_logs_20250122195000.logs
+2025-01-22 20:07:20,283 - INFO - Found valid file: app2_logs_20250122195100.logs
+2025-01-22 20:07:20,284 - INFO - Found valid file: app2_logs_20250122195200.logs
+2025-01-22 20:07:20,284 - INFO - Found valid file: app2_logs_20250122195300.logs
+2025-01-22 20:07:20,284 - INFO - Found valid file: app2_logs_20250122195400.logs
+2025-01-22 20:07:20,284 - INFO - Found valid file: app2_logs_20250122195500.logs
+2025-01-22 20:07:20,284 - INFO - Found valid file: app2_logs_20250122195600.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122195700.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122195800.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122195900.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122200000.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122200100.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122200200.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122200300.logs
+2025-01-22 20:07:20,285 - INFO - Found valid file: app2_logs_20250122200400.logs
+2025-01-22 20:07:20,287 - INFO - Found valid file: app2_logs_20250122200500.logs
+2025-01-22 20:07:20,287 - INFO - Found valid file: app2_logs_20250122200600.logs
+2025-01-22 20:07:20,287 - INFO - Found valid file: app2_logs_20250122200700.logs
+2025-01-22 20:07:20,288 - INFO - Found valid file: app3_logs_20250122194100.logs
+2025-01-22 20:07:20,288 - INFO - Found valid file: app3_logs_20250122194200.logs
+2025-01-22 20:07:20,288 - INFO - Found valid file: app3_logs_20250122194300.logs
+2025-01-22 20:07:20,288 - INFO - Found valid file: app3_logs_20250122194400.logs
+2025-01-22 20:07:20,288 - INFO - Found valid file: app3_logs_20250122194500.logs
+2025-01-22 20:07:20,289 - INFO - Found valid file: app3_logs_20250122194600.logs
+2025-01-22 20:07:20,289 - INFO - Found valid file: app3_logs_20250122194700.logs
+2025-01-22 20:07:20,289 - INFO - Found valid file: app3_logs_20250122194800.logs
+2025-01-22 20:07:20,289 - INFO - Found valid file: app3_logs_20250122194900.logs
+2025-01-22 20:07:20,289 - INFO - Found valid file: app3_logs_20250122195000.logs
+2025-01-22 20:07:20,289 - INFO - Found valid file: app3_logs_20250122195100.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195200.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195300.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195400.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195500.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195600.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195700.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195800.logs
+2025-01-22 20:07:20,290 - INFO - Found valid file: app3_logs_20250122195900.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200000.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200100.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200200.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200300.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200400.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200500.logs
+2025-01-22 20:07:20,291 - INFO - Found valid file: app3_logs_20250122200600.logs
+2025-01-22 20:07:20,292 - INFO - Found valid file: app3_logs_20250122200700.logs
+2025-01-22 20:07:20,292 - INFO - Found 81 files to process
+2025-01-22 20:07:20,292 - INFO - Successfully moved: Source\app1_logs_20250122194100.logs -> Audit\archive_app1_logs_20250122194100.logs
+2025-01-22 20:07:20,293 - INFO - Successfully moved: Source\app1_logs_20250122194200.logs -> Audit\archive_app1_logs_20250122194200.logs
+2025-01-22 20:07:20,294 - INFO - Successfully moved: Source\app1_logs_20250122194300.logs -> Audit\archive_app1_logs_20250122194300.logs
+2025-01-22 20:07:20,295 - INFO - Successfully moved: Source\app1_logs_20250122194400.logs -> Audit\archive_app1_logs_20250122194400.logs
+2025-01-22 20:07:20,296 - INFO - Successfully moved: Source\app1_logs_20250122194500.logs -> Audit\archive_app1_logs_20250122194500.logs
+2025-01-22 20:07:20,296 - INFO - Successfully moved: Source\app1_logs_20250122194600.logs -> Audit\archive_app1_logs_20250122194600.logs
+2025-01-22 20:07:20,297 - INFO - Successfully moved: Source\app1_logs_20250122194700.logs -> Audit\archive_app1_logs_20250122194700.logs
+2025-01-22 20:07:20,298 - INFO - Successfully moved: Source\app1_logs_20250122194800.logs -> Audit\archive_app1_logs_20250122194800.logs
+2025-01-22 20:07:20,299 - INFO - Successfully moved: Source\app1_logs_20250122194900.logs -> Audit\archive_app1_logs_20250122194900.logs
+2025-01-22 20:07:20,299 - INFO - Successfully moved: Source\app1_logs_20250122195000.logs -> Audit\archive_app1_logs_20250122195000.logs
+2025-01-22 20:07:20,300 - INFO - Successfully moved: Source\app1_logs_20250122195100.logs -> Audit\archive_app1_logs_20250122195100.logs
+2025-01-22 20:07:20,301 - INFO - Successfully moved: Source\app1_logs_20250122195200.logs -> Audit\archive_app1_logs_20250122195200.logs
+2025-01-22 20:07:20,302 - INFO - Successfully moved: Source\app1_logs_20250122195300.logs -> Audit\archive_app1_logs_20250122195300.logs
+2025-01-22 20:07:20,304 - INFO - Successfully moved: Source\app1_logs_20250122195400.logs -> Audit\archive_app1_logs_20250122195400.logs
+2025-01-22 20:07:20,305 - INFO - Successfully moved: Source\app1_logs_20250122195500.logs -> Audit\archive_app1_logs_20250122195500.logs
+2025-01-22 20:07:20,306 - INFO - Successfully moved: Source\app1_logs_20250122195600.logs -> Audit\archive_app1_logs_20250122195600.logs
+2025-01-22 20:07:20,307 - INFO - Successfully moved: Source\app1_logs_20250122195700.logs -> Audit\archive_app1_logs_20250122195700.logs
+2025-01-22 20:07:20,308 - INFO - Successfully moved: Source\app1_logs_20250122195800.logs -> Audit\archive_app1_logs_20250122195800.logs
+2025-01-22 20:07:20,309 - INFO - Successfully moved: Source\app1_logs_20250122195900.logs -> Audit\archive_app1_logs_20250122195900.logs
+2025-01-22 20:07:20,310 - INFO - Successfully moved: Source\app1_logs_20250122200000.logs -> Audit\archive_app1_logs_20250122200000.logs
+2025-01-22 20:07:20,312 - INFO - Successfully moved: Source\app1_logs_20250122200100.logs -> Audit\archive_app1_logs_20250122200100.logs
+2025-01-22 20:07:20,312 - INFO - Successfully moved: Source\app1_logs_20250122200200.logs -> Audit\archive_app1_logs_20250122200200.logs
+2025-01-22 20:07:20,313 - INFO - Successfully moved: Source\app1_logs_20250122200300.logs -> Audit\archive_app1_logs_20250122200300.logs
+2025-01-22 20:07:20,315 - INFO - Successfully moved: Source\app1_logs_20250122200400.logs -> Audit\archive_app1_logs_20250122200400.logs
+2025-01-22 20:07:20,316 - INFO - Successfully moved: Source\app1_logs_20250122200500.logs -> Audit\archive_app1_logs_20250122200500.logs
+2025-01-22 20:07:20,317 - INFO - Successfully moved: Source\app1_logs_20250122200600.logs -> Audit\archive_app1_logs_20250122200600.logs
+2025-01-22 20:07:20,319 - INFO - Successfully moved: Source\app1_logs_20250122200700.logs -> Audit\archive_app1_logs_20250122200700.logs
+2025-01-22 20:07:20,320 - INFO - Successfully moved: Source\app2_logs_20250122194100.logs -> Audit\archive_app2_logs_20250122194100.logs
+2025-01-22 20:07:20,321 - INFO - Successfully moved: Source\app2_logs_20250122194200.logs -> Audit\archive_app2_logs_20250122194200.logs
+2025-01-22 20:07:20,322 - INFO - Successfully moved: Source\app2_logs_20250122194300.logs -> Audit\archive_app2_logs_20250122194300.logs
+2025-01-22 20:07:20,323 - INFO - Successfully moved: Source\app2_logs_20250122194400.logs -> Audit\archive_app2_logs_20250122194400.logs
+2025-01-22 20:07:20,324 - INFO - Successfully moved: Source\app2_logs_20250122194500.logs -> Audit\archive_app2_logs_20250122194500.logs
+2025-01-22 20:07:20,325 - INFO - Successfully moved: Source\app2_logs_20250122194600.logs -> Audit\archive_app2_logs_20250122194600.logs
+2025-01-22 20:07:20,326 - INFO - Successfully moved: Source\app2_logs_20250122194700.logs -> Audit\archive_app2_logs_20250122194700.logs
+2025-01-22 20:07:20,328 - INFO - Successfully moved: Source\app2_logs_20250122194800.logs -> Audit\archive_app2_logs_20250122194800.logs
+2025-01-22 20:07:20,329 - INFO - Successfully moved: Source\app2_logs_20250122194900.logs -> Audit\archive_app2_logs_20250122194900.logs
+2025-01-22 20:07:20,331 - INFO - Successfully moved: Source\app2_logs_20250122195000.logs -> Audit\archive_app2_logs_20250122195000.logs
+2025-01-22 20:07:20,332 - INFO - Successfully moved: Source\app2_logs_20250122195100.logs -> Audit\archive_app2_logs_20250122195100.logs
+2025-01-22 20:07:20,334 - INFO - Successfully moved: Source\app2_logs_20250122195200.logs -> Audit\archive_app2_logs_20250122195200.logs
+2025-01-22 20:07:20,335 - INFO - Successfully moved: Source\app2_logs_20250122195300.logs -> Audit\archive_app2_logs_20250122195300.logs
+2025-01-22 20:07:20,336 - INFO - Successfully moved: Source\app2_logs_20250122195400.logs -> Audit\archive_app2_logs_20250122195400.logs
+2025-01-22 20:07:20,337 - INFO - Successfully moved: Source\app2_logs_20250122195500.logs -> Audit\archive_app2_logs_20250122195500.logs
+2025-01-22 20:07:20,338 - INFO - Successfully moved: Source\app2_logs_20250122195600.logs -> Audit\archive_app2_logs_20250122195600.logs
+2025-01-22 20:07:20,339 - INFO - Successfully moved: Source\app2_logs_20250122195700.logs -> Audit\archive_app2_logs_20250122195700.logs
+2025-01-22 20:07:20,340 - INFO - Successfully moved: Source\app2_logs_20250122195800.logs -> Audit\archive_app2_logs_20250122195800.logs
+2025-01-22 20:07:20,341 - INFO - Successfully moved: Source\app2_logs_20250122195900.logs -> Audit\archive_app2_logs_20250122195900.logs
+2025-01-22 20:07:20,342 - INFO - Successfully moved: Source\app2_logs_20250122200000.logs -> Audit\archive_app2_logs_20250122200000.logs
+2025-01-22 20:07:20,343 - INFO - Successfully moved: Source\app2_logs_20250122200100.logs -> Audit\archive_app2_logs_20250122200100.logs
+2025-01-22 20:07:20,344 - INFO - Successfully moved: Source\app2_logs_20250122200200.logs -> Audit\archive_app2_logs_20250122200200.logs
+2025-01-22 20:07:20,345 - INFO - Successfully moved: Source\app2_logs_20250122200300.logs -> Audit\archive_app2_logs_20250122200300.logs
+2025-01-22 20:07:20,346 - INFO - Successfully moved: Source\app2_logs_20250122200400.logs -> Audit\archive_app2_logs_20250122200400.logs
+2025-01-22 20:07:20,347 - INFO - Successfully moved: Source\app2_logs_20250122200500.logs -> Audit\archive_app2_logs_20250122200500.logs
+2025-01-22 20:07:20,348 - INFO - Successfully moved: Source\app2_logs_20250122200600.logs -> Audit\archive_app2_logs_20250122200600.logs
+2025-01-22 20:07:20,348 - INFO - Successfully moved: Source\app2_logs_20250122200700.logs -> Audit\archive_app2_logs_20250122200700.logs
+2025-01-22 20:07:20,349 - INFO - Successfully moved: Source\app3_logs_20250122194100.logs -> Audit\archive_app3_logs_20250122194100.logs
+2025-01-22 20:07:20,350 - INFO - Successfully moved: Source\app3_logs_20250122194200.logs -> Audit\archive_app3_logs_20250122194200.logs
+2025-01-22 20:07:20,352 - INFO - Successfully moved: Source\app3_logs_20250122194300.logs -> Audit\archive_app3_logs_20250122194300.logs
+2025-01-22 20:07:20,353 - INFO - Successfully moved: Source\app3_logs_20250122194400.logs -> Audit\archive_app3_logs_20250122194400.logs
+2025-01-22 20:07:20,354 - INFO - Successfully moved: Source\app3_logs_20250122194500.logs -> Audit\archive_app3_logs_20250122194500.logs
+2025-01-22 20:07:20,355 - INFO - Successfully moved: Source\app3_logs_20250122194600.logs -> Audit\archive_app3_logs_20250122194600.logs
+2025-01-22 20:07:20,356 - INFO - Successfully moved: Source\app3_logs_20250122194700.logs -> Audit\archive_app3_logs_20250122194700.logs
+2025-01-22 20:07:20,357 - INFO - Successfully moved: Source\app3_logs_20250122194800.logs -> Audit\archive_app3_logs_20250122194800.logs
+2025-01-22 20:07:20,359 - INFO - Successfully moved: Source\app3_logs_20250122194900.logs -> Audit\archive_app3_logs_20250122194900.logs
+2025-01-22 20:07:20,359 - INFO - Successfully moved: Source\app3_logs_20250122195000.logs -> Audit\archive_app3_logs_20250122195000.logs
+2025-01-22 20:07:20,362 - INFO - Successfully moved: Source\app3_logs_20250122195100.logs -> Audit\archive_app3_logs_20250122195100.logs
+2025-01-22 20:07:20,362 - INFO - Successfully moved: Source\app3_logs_20250122195200.logs -> Audit\archive_app3_logs_20250122195200.logs
+2025-01-22 20:07:20,363 - INFO - Successfully moved: Source\app3_logs_20250122195300.logs -> Audit\archive_app3_logs_20250122195300.logs
+2025-01-22 20:07:20,365 - INFO - Successfully moved: Source\app3_logs_20250122195400.logs -> Audit\archive_app3_logs_20250122195400.logs
+2025-01-22 20:07:20,366 - INFO - Successfully moved: Source\app3_logs_20250122195500.logs -> Audit\archive_app3_logs_20250122195500.logs
+2025-01-22 20:07:20,367 - INFO - Successfully moved: Source\app3_logs_20250122195600.logs -> Audit\archive_app3_logs_20250122195600.logs
+2025-01-22 20:07:20,368 - INFO - Successfully moved: Source\app3_logs_20250122195700.logs -> Audit\archive_app3_logs_20250122195700.logs
+2025-01-22 20:07:20,369 - INFO - Successfully moved: Source\app3_logs_20250122195800.logs -> Audit\archive_app3_logs_20250122195800.logs
+2025-01-22 20:07:20,370 - INFO - Successfully moved: Source\app3_logs_20250122195900.logs -> Audit\archive_app3_logs_20250122195900.logs
+2025-01-22 20:07:20,371 - INFO - Successfully moved: Source\app3_logs_20250122200000.logs -> Audit\archive_app3_logs_20250122200000.logs
+2025-01-22 20:07:20,372 - INFO - Successfully moved: Source\app3_logs_20250122200100.logs -> Audit\archive_app3_logs_20250122200100.logs
+2025-01-22 20:07:20,374 - INFO - Successfully moved: Source\app3_logs_20250122200200.logs -> Audit\archive_app3_logs_20250122200200.logs
+2025-01-22 20:07:20,375 - INFO - Successfully moved: Source\app3_logs_20250122200300.logs -> Audit\archive_app3_logs_20250122200300.logs
+2025-01-22 20:07:20,376 - INFO - Successfully moved: Source\app3_logs_20250122200400.logs -> Audit\archive_app3_logs_20250122200400.logs
+2025-01-22 20:07:20,377 - INFO - Successfully moved: Source\app3_logs_20250122200500.logs -> Audit\archive_app3_logs_20250122200500.logs
+2025-01-22 20:07:20,377 - INFO - Successfully moved: Source\app3_logs_20250122200600.logs -> Audit\archive_app3_logs_20250122200600.logs
+2025-01-22 20:07:20,379 - INFO - Successfully moved: Source\app3_logs_20250122200700.logs -> Audit\archive_app3_logs_20250122200700.logs
+2025-01-22 20:07:20,379 - INFO - Processing complete. 81/81 files processed successfully
